@@ -1,11 +1,11 @@
 - <h1 align = "center">Hi there! 👋 I am Shravani Shinde</h1>
 
 
-🏫 I'm and IT student currently studying at Don Bosco Institute of Technology.
+👩🏻‍💻 I'm an IT undergraduate student currently studying at Don Bosco Institute of Technology.
 
-🌱 I'm currently learning java.
+💻 I'm currently learning java.
 
-🔭 I’m looking forward to collaborate.
+👀 I’m looking forward to collaborate.
 
 📩 You can reach out to me via shravanishinde20@gmail.com
 

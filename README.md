@@ -3,9 +3,9 @@
 
 👩🏻‍💻 I'm an IT undergraduate student currently studying at Don Bosco Institute of Technology.
 
-💻 I'm currently learning java.
+💻 I'm currently learning new programing languages.
 
-👀 I’m looking forward to collaborate.
+👀 I’m looking forward to join in collaboration ahead.
 
 📩 You can reach out to me via shravanishinde20@gmail.com
 
